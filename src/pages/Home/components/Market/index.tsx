@@ -6,7 +6,7 @@ import ExpressoTradicional from "../../../../assets/ExpressoTradicional.png";
 import ExpressoAmericano from "../../../../assets/ExpressoAmericano.png";
 import ExpressoCremoso from "../../../../assets/ExpressoCremoso.png";
 import ExpressoGelado from "../../../../assets/ExpressoGelado.png";
-import CafecomLeite from "../../../../assets/CafecomLeite.png";
+import CafecomLeite from "../../../../assets/CafeComLeite.png";
 import Latte from "../../../../assets/ExpressoTradicional.png";
 import Capuccino from "../../../../assets/Capuccino.png";
 import Macchiato from "../../../../assets/Macchiato.png";
