@@ -12,7 +12,7 @@ export const GeoIP = (): JSX.Element => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response: AxiosResponse<IpData> = await axios.get("http://ip-api.com/json/");
+        const response: AxiosResponse<IpData> = await axios.get("https://ip-api.com/json/");
         setIpData(response.data);
       } catch (error) {
         console.log(error);
